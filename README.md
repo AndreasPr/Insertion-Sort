@@ -1,3 +1,3 @@
-# Insertion-Sort
+# Insertion-Sort-Algorithm
 
 Implementation in Java
